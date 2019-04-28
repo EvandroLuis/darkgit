@@ -1,0 +1,16 @@
+{
+  "name": "darkgit",
+  "version": "1.0.0",
+  "description": "Electron GitHub Client",
+  "main": "index.js",
+  "repository": "https://github.com/EvandroLuis/darkgit",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^5.0.0",
+    "global": "^4.3.2"
+  }
+}
